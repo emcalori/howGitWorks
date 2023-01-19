@@ -6,3 +6,5 @@ premade pastry
 100g sugar
 tsp nutmeg
 5 apples
+
+make apples
