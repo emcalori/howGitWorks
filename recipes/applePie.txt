@@ -8,3 +8,4 @@ tsp nutmeg
 5 apples
 
 make apples
+make pie
